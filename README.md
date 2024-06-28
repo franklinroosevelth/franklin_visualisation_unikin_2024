@@ -34,10 +34,10 @@ Ce projet est une application web basée sur le framework Python Flask permettan
 
 - **app.py** : Fichier principal contenant le serveur Flask et les routes API.
 - **static/** : Contient les fichiers JavaScript et CSS.
-    - **script.js** : Contient les fonctions JavaScript pour gérer le téléchargement d'images et les appels AJAX.
-    - **style.css** : Contient les styles CSS pour l'interface utilisateur.
+    - **js/script.js** : Contient les fonctions JavaScript pour gérer le téléchargement d'images et les appels AJAX.
+    - **css/style.css** : Contient les styles CSS pour l'interface utilisateur.
 - **templates/** : Contient les fichiers HTML.
-    - **index.html** : Page principale de l'application.
+    - **upload_img.html** : Page principale de l'application.
 
 ## Utilisation
 
