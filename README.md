@@ -1,6 +1,6 @@
 # Projet de Détection d'Objets avec YOLO et Flask
 
-Ce projet est une application web basée sur le framework Python Flask permettant de détecter des objets dans des images téléchargées par l'utilisateur à l'aide du modèle YOLO (You Only Look Once) avec OpenCV. Le frontend est gérer par jQuery.
+Ce projet est une application web basée sur le framework Python Flask permettant de détecter des objets dans des images téléchargées par l'utilisateur à l'aide du modèle YOLO (You Only Look Once) avec OpenCV. Le frontend est géré par jQuery.
 
 ## Fonctionnalités
 
